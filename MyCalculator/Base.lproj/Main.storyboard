@@ -33,6 +33,9 @@
                             <constraint firstAttribute="trailingMargin" secondItem="XRE-Ds-toB" secondAttribute="trailing" id="gME-k6-MdS"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="display" destination="XRE-Ds-toB" id="0Sc-kv-b2y"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
