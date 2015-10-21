@@ -109,9 +109,6 @@
                                 <rect key="frame" x="21" y="282" width="64" height="64"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                                <connections>
-                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="0KK-n8-KAe"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2d0-E2-aAJ">
                                 <rect key="frame" x="80" y="282" width="64" height="64"/>
@@ -126,8 +123,9 @@
                                 <rect key="frame" x="138" y="282" width="64" height="64"/>
                                 <animations/>
                                 <fontDescription key="fontDescription" type="system" pointSize="24"/>
+                                <state key="normal" title="⏎"/>
                                 <connections>
-                                    <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VVV-eS-mEK"/>
+                                    <action selector="enter" destination="BYZ-38-t0r" eventType="touchUpInside" id="goY-WP-4wJ"/>
                                 </connections>
                             </button>
                         </subviews>
