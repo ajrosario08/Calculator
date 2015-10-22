@@ -96,11 +96,6 @@
                                     <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qXD-QT-ZaI"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j37-P4-k3E">
-                                <rect key="frame" x="28" y="466.5" width="102.5" height="125.5"/>
-                                <animations/>
-                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2d0-E2-aAJ">
                                 <rect key="frame" x="138.5" y="466.5" width="102.5" height="125.5"/>
                                 <animations/>
@@ -196,6 +191,11 @@
                                 <connections>
                                     <action selector="appendDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="xjH-Iz-GAg"/>
                                 </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="j37-P4-k3E">
+                                <rect key="frame" x="28" y="466" width="102.5" height="125.5"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" type="system" pointSize="24"/>
                             </button>
                         </subviews>
                         <animations/>
