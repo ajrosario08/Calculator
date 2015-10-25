@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     
     var userIsInTheMiddleOfTypingANumber: Bool = false
     
-    
+    var brain = CalculatorBrain()
    
     @IBAction func appendDigit(sender: UIButton) {
         let digit = sender.currentTitle!
@@ -31,13 +31,22 @@ class ViewController: UIViewController {
             enter()
         }
         if let operation = sender.currentTitle {
-            
+            if let result = brain.performOperation(operation) {
+                displayValue = result
+            } else {
+                displayValue = 0
+            }
         }
     }
     
     @IBAction func enter() {
         userIsInTheMiddleOfTypingANumber = false
-        operandStack.append(displayValue)
+        if let result = brain.pushOperand(displayValue) {
+            displayValue = result
+        } else {
+            displayValue = 0
+        }
+    
     }
     
     var displayValue: Double {
