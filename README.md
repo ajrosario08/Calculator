@@ -25,6 +25,17 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 	- all properties have to be initialized with a value
 
 ### Lecture 2
+- Computed properties 
+	- setters 
+	- getters
+- Switch statement 
+- Functions  
+- Closures 
+- MVC
+	- delegate
+	- data sources
+- More autolayout
+
 ### Lecture 3
 ### Lecture 4
 ### Lecture 5
