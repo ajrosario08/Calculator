@@ -37,5 +37,16 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 - More autolayout
 
 ### Lecture 3
+- Apply MVC
+	- adding files to project
+	- seperate code that manipulates the view and code that manipulates the code
+- Enums
+- Initializers
+- returning an Optional
+- Dictionary
+- tuples
+
 ### Lecture 4
+
+
 ### Lecture 5
