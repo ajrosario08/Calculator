@@ -8,7 +8,7 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 ## Topics learned
 
 ### Lecture 1
--built a single view application
+- built a single view application
 - Xcode interface 
 	- option key: lets you find out more info on symbols in Xcode
 - Autolayout, constraints, updating frame
