@@ -9,10 +9,10 @@ It also makes use of autolayout, it is able to run on both an iphone and ipad.
 
 ### Lecture 1
 -built a single view application
--Xcode interface 
+- Xcode interface 
 	- option key: lets you find out more info on symbols in Xcode
--Autolayout, constraints, updating frame
--iOS simulator
+- Autolayout, constraints, updating frame
+- iOS simulator
 - Outlet connections 
 	- @IBOulet   
 	- @IBAction
