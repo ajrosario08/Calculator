@@ -4,7 +4,7 @@ The Calculator App is a simple app that has the basic functions of a calculator,
 It also makes use of autolayout, it is able to run on both an iphone and ipad.
 
 ![iphone6 Screenshot](https://github.com/ajrosario08/Calculator/blob/master/iphone6.png)
-![ipad Screenshot](https://github.com/ajrosario08/Calculator/blob/master/ipad.png)
+
 ## Topics learned
 
 ### Lecture 1
