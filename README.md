@@ -47,6 +47,22 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 - tuples
 
 ### Lecture 4
-
+- Optionals and enums
+- Array
+- Dictionarys
+- Range
+- Data Structions in Swift
+- Methods
+- Properties
+- Initalization
+- Anyobject
+	- introspection (is)
+	-  casting (as)
+- Difference between types 
+	- String vs. NSString
+	- Array vs. NSArray
+	- Dictionary vs. NSDictionary
+- Property lists
+- NSUserDefaults
 
 ### Lecture 5
