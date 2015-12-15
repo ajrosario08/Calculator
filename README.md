@@ -8,6 +8,21 @@ It also makes use of autolayout, it is able to run on both an iphone and ipad.
 ## Topics learned
 
 ### Lecture 1
+-built a single view application
+-Xcode interface 
+	- option key: lets you find out more info on symbols in Xcode
+-Autolayout, constraints, updating frame
+-iOS simulator
+- Outlet connections 
+	- @IBOulet   
+	- @IBAction
+- Storyboard scenes 
+- Classes 
+	- single inheritance 
+- ARC memory management
+- Optionals
+- Swift language
+	- all properties have to be initialized with a value
 ### Lecture 2
 ### Lecture 3
 ### Lecture 4
