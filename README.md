@@ -3,8 +3,8 @@ This app was built by following along on the itunesU class Stanford cs193p letur
 The Calculator App is a simple app that has the basic functions of a calculator, plus, minus, multiply and divide. 
 It also makes use of autolayout, it is able to run on both an iphone and ipad.
 
-![iphone6 Screenshot](https://www.dropbox.com/s/aelk3f2xgknaipd/iphone6.png?dl=0)
-![ipad Screenshot](https://www.dropbox.com/s/kzxnk5gx0uhdc7w/ipad.png?dl=0raw=true)
+![iphone6 Screenshot](https://github.com/ajrosario08/Calculator/blob/master/iphone6.png)
+![ipad Screenshot](https://github.com/ajrosario08/Calculator/blob/master/ipad.png)
 ## Topics learned
 
 ### Lecture 1
