@@ -23,6 +23,7 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 - Optionals
 - Swift language
 	- all properties have to be initialized with a value
+
 ### Lecture 2
 ### Lecture 3
 ### Lecture 4
