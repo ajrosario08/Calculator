@@ -5,7 +5,7 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 
 ![iphone6 Screenshot](https://github.com/ajrosario08/Calculator/blob/master/iphone6.png)
 
-## Topics learned
+## Topics Covered
 
 ### Lecture 1
 - built a single view application
@@ -62,7 +62,22 @@ It also makes use of autolayout. This app is able to run on both the iphone and 
 	- String vs. NSString
 	- Array vs. NSArray
 	- Dictionary vs. NSDictionary
-- Property lists
-- NSUserDefaults
 
 ### Lecture 5
+- Bridging
+	- NString bridged to String(sting is just a struct)
+	- NSArray bridged to Array<AnyObject>
+	- NSDictionary bridged to Dictionary<NSObject, AnyObject>
+- Property lists
+	- is a collection of 
+		- NSString
+		- NSArray
+		- NSDictionary 
+		- NSNumber
+		- NSData 
+		- NSDate
+- NSUserDefaults
+	- .ojbectForKey(String)
+	- .setObject(AnyObject, forKey: String)
+	-  .synchronize to save 
+	-  changes to NSUserDefaults are saved automatically
